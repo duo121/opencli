@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jackwener/opencli/compare/v1.1.0...v1.2.0) (2026-03-20)
+
+
+### Features
+
+* auto-discover and dynamically register any local CLI on the fly ([4d3b972](https://github.com/jackwener/opencli/commit/4d3b972d676916b5c30aec8c4829307a0eda3aad))
+
 ## [1.1.0](https://github.com/jackwener/opencli/compare/v1.0.6...v1.1.0) (2026-03-20)
 
 
